@@ -1,9 +1,9 @@
 # Site settings
-title: wuwu20048 Blog
-SEOTitle: wuwu20048 Blog
+title: 小风果果 博客
+SEOTitle: 小风果果 博客
 header-img: img/home-bg.jpg
 email: wuwu20048@gmail.com
-description: "wuwu20048 blog"
+description: "小风果果 blog"
 keyword: "wuwu20048,funnynode"
 url: "blog.funnynode.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
